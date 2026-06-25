@@ -1,0 +1,8 @@
+{
+    "trace_id": "0dffdc6d-7f0d-4b1b-aef2",
+    "path": "/users",
+    "method": "GET",
+    "status": 200,
+    "duration": 0.004,
+    "timestamp": "2026-06-25 10:22:31"
+}
